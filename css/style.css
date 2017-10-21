@@ -130,6 +130,10 @@ nav {
   padding: 1rem 3rem;
 }
 
+.more {
+  display: none;
+}
+
 .circle {
     border-radius: 50%;
   padding: 4rem;
@@ -194,6 +198,7 @@ nav {
   margin-top: 4rem;
         font-weight: 500;
 }
+
 
 .list-container {
   background-color: #fff;
