@@ -46,5 +46,15 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('scroll', function() {
         menu.style.borderBottom = '1px solid #7f7f7f';
     });
+
+
+    // Zadanie 4
+
+    var upButton = document.querySelector('.go-up-btn');
     
+    upButton.addEventListener('click', function () {
+        window.scroll(0,0);
+    })
+
+
 });

@@ -242,6 +242,16 @@ nav {
   color: #fff;
 }
 
+.go-up-btn {
+  font-weight: 600;
+  color: #fff;
+  background-color: #15b315;
+}
+
+.go-up-btn:hover {
+  color: #F58122;
+}
+
 .orgs h3 {
   font-size: 4rem;
   font-weight: 600;
